@@ -1,0 +1,19 @@
+<svg width="50.000000" height="50.000000" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip177_1798">
+			<rect id="icons8_survey 1" rx="-0.500000" width="49.000000" height="49.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="50.128235" y1="-0.000008" x2="5.000141" y2="50.022457" id="paint_linear_177_1799_0" gradientUnits="userSpaceOnUse">
+			<stop offset="0.250000" stop-color="#3B768F"/>
+			<stop offset="0.536458" stop-color="#3EC6FF"/>
+			<stop offset="0.817708" stop-color="#3B768F"/>
+		</linearGradient>
+	</defs>
+	<rect id="icons8_survey 1" rx="-0.500000" width="49.000000" height="49.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip177_1798)">
+		<path id="Vector" d="M17 0C16.44 0 16 0.44 16 1L16 9C16 9.55 16.44 10 17 10L33 10C33.55 10 34 9.55 34 9L34 1C34 0.44 33.55 0 33 0L17 0ZM8 2C6.34 2 5 3.34 5 5L5 47C5 48.65 6.34 50 8 50L42 50C43.65 50 45 48.65 45 47L45 5C45 3.34 43.65 2 42 2L36 2L36 6L41 6L41 46L9 46L9 6L14 6L14 2L8 2ZM11 8L11 44L39 44L39 8L36 8L36 9C36 10.65 34.65 12 33 12L17 12C15.34 12 14 10.65 14 9L14 8L11 8ZM15 17L23 17L23 25L15 25L15 17ZM17 19L17 23L21 23L21 19L17 19ZM26 20L35 20L35 22L26 22L26 20ZM15 30L23 30L23 38L15 38L15 30ZM17 32L17 36L21 36L21 32L17 32ZM18 33L20 33L20 35L18 35L18 33ZM26 33L35 33L35 35L26 35L26 33Z" fill="url(#paint_linear_177_1799_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
